@@ -1,6 +1,6 @@
 # Advanced Networking Concepts
 
-## 1️⃣ Protocols – Advanced Explanation
+## 1️⃣ Protocols
 
 Protocols are not just rules; they are the language devices use to communicate. Each protocol operates at a specific network layer.  
 
@@ -22,7 +22,7 @@ For a website:
 
 ---
 
-## 2️⃣ Packets – Advanced Explanation
+## 2️⃣ Packets 
 
 Large data must be divided into small packets for network transmission.  
 
@@ -40,7 +40,7 @@ Large data must be divided into small packets for network transmission.
 
 ---
 
-## 3️⃣ Encapsulation – Advanced Explanation
+## 3️⃣ Encapsulation 
 
 Encapsulation is the process of wrapping data with protocol information to ensure proper delivery and organization.  
 
@@ -61,7 +61,7 @@ Ethernet Frame
 
 ---
 
-## 4️⃣ OSI Model/Stack – Advanced Explanation
+## 4️⃣ OSI Model/Stack 
 
 Each layer has a specific role:
 
@@ -88,7 +88,7 @@ Each layer has a specific role:
 
 ---
 
-## 5️⃣ TCP/IP Model/Stack – Advanced Explanation
+## 5️⃣ TCP/IP Model/Stack 
 
 Simpler and more practical than OSI:
 
@@ -105,7 +105,7 @@ Simpler and more practical than OSI:
 
 ---
 
-## 6️⃣ IPv4 and its Header – Advanced Explanation
+## 6️⃣ IPv4 and its Header 
 
 **IPv4 Header Fields:**
 
@@ -123,7 +123,7 @@ Simpler and more practical than OSI:
 
 ---
 
-## 7️⃣ Routing and Routing Table – Advanced Explanation
+## 7️⃣ Routing and Routing Table 
 
 **Routing:** Choosing the best path for a packet to reach its destination.  
 
@@ -140,7 +140,7 @@ Routers select the fastest or shortest path for each packet.
 
 ---
 
-## 8️⃣ ICMP Protocol – Advanced Explanation
+## 8️⃣ ICMP Protocol 
 
 **ICMP (Internet Control Message Protocol)** is used for control and error reporting.  
 
