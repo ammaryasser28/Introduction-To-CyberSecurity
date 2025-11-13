@@ -33,10 +33,6 @@ Large data must be divided into small packets for network transmission.
 
 <img width="697" height="265" alt="image" src="https://github.com/user-attachments/assets/cabdd3e3-8a9f-49cf-996d-2ca912a82c06" />
 
-
-[ Header | Payload ]
-
-
 **Important Info:**  
 - Standard packet size: 1500 bytes on Ethernet (MTU)  
 - Larger data → fragmented into smaller packets  
@@ -109,6 +105,9 @@ Simpler and more practical than OSI:
 ---
 
 ## 6️⃣ IPv4 and its Header 
+
+<img width="734" height="222" alt="image" src="https://github.com/user-attachments/assets/11241163-488f-4fed-b05c-d4143d8a6909" />
+
 
 **IPv4 Header Fields:**
 
