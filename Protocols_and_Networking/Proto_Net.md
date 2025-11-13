@@ -31,6 +31,9 @@ Large data must be divided into small packets for network transmission.
 
 **Packet Structure (Illustrative):**  
 
+<img width="697" height="265" alt="image" src="https://github.com/user-attachments/assets/cabdd3e3-8a9f-49cf-996d-2ca912a82c06" />
+
+
 [ Header | Payload ]
 
 
