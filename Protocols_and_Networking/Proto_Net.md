@@ -77,7 +77,7 @@ Each layer has a specific role:
 
 **Illustrative Stack:**
 
-Application ]
+[ Application ]
 [ Presentation ]
 [ Session ]
 [ Transport ]
